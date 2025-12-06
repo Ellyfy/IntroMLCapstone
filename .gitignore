@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+anaconda3/
+anaconda_projects/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data files (if you don't want to push large datasets)
+*.csv
+*.xlsx
+*.h5
+*.joblib
+
+# Other hidden system files
+*.log
+*.ini
+*.bak
+*.swp
